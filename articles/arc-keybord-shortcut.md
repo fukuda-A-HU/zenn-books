@@ -1,8 +1,8 @@
 ---
 title: "Arc キーボードショートカット集"
 emoji: "🌟"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+type: "idea" # tech: 技術記事 / idea: アイデア
+topics: ["Arc", "ショートカット"]
 published: true
 ---
 
@@ -62,7 +62,7 @@ macOS版 Arc のキーボード ショートカットは、設定で編集また
 
 :::message
 ショートカットを開始するには、修飾キーを使用します (例: Shift、Control、Option、Command)。
-::: 
+:::
 
 カスタム キーボード ショートカットは現在、Arc for Windowsではサポートされていません。
 
